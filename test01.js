@@ -67,7 +67,7 @@ iに1を加算した値をiに代入する処理。
 
 var n = 0;
 while(n<fruitS.length){
-    //lert(fruitS[n]);
+    //alert(fruitS[n]);
     n++;//i+=1と書いても同じ。
 }//while文は継続するための条件式のみでfor文と同じ内容になる。
 /*
